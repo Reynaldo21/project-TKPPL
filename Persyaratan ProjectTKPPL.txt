@@ -1,0 +1,8 @@
+Selamat datang di project TKKPL...!!!
+
+Berikut aturan-aturan project TKPPL:
+	1. Harus melakukan commit tiap hari.
+	2. Wajib melakukan absensi setiap koneksi ke Repository
+	3. Dapat ditambahkan oleh SCRUM Master selanjutnya
+
+Thanks...! 
