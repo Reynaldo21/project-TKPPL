@@ -1,0 +1,54 @@
+INFORMASI UMUM 
+==============
+
+NAMA KELOMPOK	: Kelompok 11
+JUDUL TOPIK : Virtual reality
+Alamat Github : https://github.com/Reynaldo21
+Alamat trello : https://trello.com/b/4TAUo65I/tkppl
+
+Anggota : 
+	  Nama : Reynaldo Naiborhu
+	  NIM  : 151112068
+	  Kelas: TI-B pagi
+--------------------------------------------------------------------------------------
+
+SPRINT
+========
+Author: Reynaldo21 <persibas21@gmail.com>
+Date:   Tue Jun 6 21:08:58 2017 +0700
+
+    Presentasi Bespoke
+
+commit 0b6b1d6543634a31344aadd458dea375966d1183
+Author: Reynaldo21 <persibas21@gmail.com>
+Date:   Fri May 26 21:37:52 2017 +0700
+
+    First BLooD
+
+commit 5c390cff8ed6a4eb0749658f24c3d8d4745ec405
+Author: Reynaldo21 <persibas21@gmail.com>
+Date:   Fri May 26 20:41:21 2017 +0700
+
+    Initial commit
+------------------------------------------------------------------------------------
+
+PROGRESS HARIAN
+=================
+Daily Scrum
+27/5
+
+	- Daftar akun github dan Trello
+	- Membuat Repository baru tentang persyaratan project
+
+30/5
+	- Mencari informasi dan artikel tentang topik yang dibahas
+	- 
+2/6
+	- Install node js 
+	- Mencofigurasi Bespoke js 
+	- Mendesain halaman awal project presentasi
+5/6
+	- finished project
+	- Melakukan cek ulang hasil presentasi
+
+	
